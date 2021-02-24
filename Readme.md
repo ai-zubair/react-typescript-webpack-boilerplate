@@ -1,11 +1,7 @@
 ## About 
----
-
 *Minimalistic **Webpack-5** build environment for **React-v17** and **TypeScript-v4**.*
 
----
-
-#### Features
+## Features
 
 1. ***AsyncRoute HOC*** for code splitting of route-level ***React*** components.
    
@@ -15,7 +11,7 @@
    
 4. ***webpack-dev-server*** for local hosting in development.
 
-#### How to?
+## How to?
 
 - **Adding preset configurations to webpack**:
   1. Write the webpack configuration file for the preset.
