@@ -38,3 +38,7 @@
   - Environment specific configurations can be invoked with a `mode` key on webpack's environment object, in the build command.
   
             build-command -- --env mode=<development | production>
+
+## Get Started
+
+Build and run the project locally with `npm run build:dev`

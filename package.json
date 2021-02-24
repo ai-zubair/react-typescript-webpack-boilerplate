@@ -1,8 +1,8 @@
 {
-  "name": "svg-chunks-plugin",
+  "name": "react-typescript-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "A webpack plugin for creating SVG chunks",
-  "main": "src/index.ts",
+  "description": "Minimalistic Webpack-5 build environment for React-v17 and TypeScript-v4.",
+  "main": "src/ClientApp.tsx",
   "scripts": {
     "webpack": "webpack",
     "server": "webpack serve",
@@ -12,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ai-zubair/svg-chunks-plugin.git"
+    "url": "git+https://github.com/ai-zubair/react-typescript-webpack-boilerplate.git"
   },
   "keywords": [
-    "svg",
-    "chunks",
-    "webpack",
-    "plugin"
+    "react-v17",
+    "webpack-v5",
+    "typescript-v4",
+    "boilerplate"
   ],
   "author": "Zubair Bashir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ai-zubair/svg-chunks-plugin/issues"
+    "url": "https://github.com/ai-zubair/react-typescript-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/ai-zubair/svg-chunks-plugin#readme",
+  "homepage": "https://github.com/ai-zubair/react-typescript-webpack-boilerplate#readme",
   "devDependencies": {
     "@types/styled-components": "^5.1.7",
     "html-webpack-plugin": "^4.5.1",
